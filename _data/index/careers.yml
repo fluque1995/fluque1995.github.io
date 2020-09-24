@@ -38,8 +38,10 @@
   desc:
     detail: >
       Studied a double Bachelor's Degree in Maths and Computer
-      Sciences.\n\n
-      Avg marks in Maths: 8.00/10\n
+      Sciences.
+
+      Avg marks in Maths: 8.00/10
+
       Avg marks in C.S: 8.45/10
     i18n: company_b_desc
   date:
