@@ -25,7 +25,7 @@
       honors
     i18n: company_b_desc
   date:
-    detail: Sept. 2019
+    detail: Sept. 2019 - Sept. 2020
     i18n: company_b_date
   job:
     detail: M.Sc. in Data Science
@@ -43,7 +43,7 @@
       Avg marks in C.S: 8.45/10</br>
     i18n: company_b_desc
   date:
-    detail: Sept. 2019
+    detail: Sept. 2013 - Jan. 2019
     i18n: company_b_date
   job:
     detail: Bachelor's Degree
