@@ -20,6 +20,7 @@ author:  # change following line to your infomation.
   facebook_username: pluquesanchez  # Leave blank if you don't have now
   twitter_username: fluque1995  # Leave blank if you don't have now
   email: fluque@ugr.es  # Leave blank if you don't have now
+  scholar_id: EQpZEKQAAAAJ
   cv:  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
@@ -29,9 +30,11 @@ author:  # change following line to your infomation.
     - name: icon-shell
     - name: icon-git
   desc: >
-    Hi! My name is Francisco Luque, a PhD Student at Granada University, Spain.
-    My research is currently centered on applying Deep Learning to detect
-    abnormal behaviours in crowds.
+    Hi! My name is Francisco Luque, a PhD Student at Granada
+    University, Spain. My research is currently centered on applying
+    Deep Learning to detect abnormal behaviours in crowds. </br> </br>
+    Interested in Computer Vision, Deep Learning, Open Source, User
+    Privacy and Maths.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to
