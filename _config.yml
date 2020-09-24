@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Online CV
+title: Online CV - Francisco Luque Sánchez
 description: Francisco Luque's online CV
 keywords: fluque,cv,resume,francisco,luque
 baseurl: ""
@@ -36,8 +36,8 @@ disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your c
 
 # analytics
 ## google analytics
-ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
-  id: UA-93473370-3
+#ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
+  #id: UA-93473370-3
 
 ## google optimize
 go:
@@ -48,7 +48,7 @@ gio:  # if you wanna this feature, go to https://www.growingio.com/ to get your 
   # id:
 
 ## donation
-donation: on  # type 'on'/'off' to choice display donation button at post page or not
+donation: off  # type 'on'/'off' to choice display donation button at post page or not
 
 ## carousels
 index_carousel: on  # index page carousel switch
