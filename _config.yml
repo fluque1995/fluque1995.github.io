@@ -6,8 +6,8 @@ description: Francisco Luque's online CV
 keywords: fluque,cv,resume,francisco,luque
 baseurl: ""
 url: https://fluque1995.github.io/
-url: http://127.0.0.1:4000
-img_path: /Jalpc/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
+#url: http://127.0.0.1:4000
+img_path: /static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
