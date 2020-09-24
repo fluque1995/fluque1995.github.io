@@ -1,0 +1,73 @@
+- title: >
+    Revisiting Crowd Behaviour Analysis through Deep Learning:
+    Taxonomy, anomaly detection, crowd emotions, datasets,
+    opportunities and prospects
+  authors: >
+    Francisco Luque, Isabelle Hupont, Siham Tabik, Francisco Herrera
+  date: July 2020
+  journal: Information Fusion
+  abstract: >
+    Crowd behaviour analysis is an emerging research area. Due to its
+    novelty, a proper taxonomy to organise its different sub-tasks is
+    still missing. This paper proposes a taxonomic organisation of
+    existing works following a pipeline, where sub-problems in last
+    stages benefit from the results in previous ones. Models that
+    employ Deep Learning to solve crowd anomaly detection, one of the
+    proposed stages, are reviewed in depth, and the few works that
+    address emotional aspects of crowds are outlined. The importance
+    of bringing emotional aspects into the study of crowd behaviour is
+    remarked, together with the necessity of producing real-world,
+    challenging datasets in order to improve the current
+    solutions. Opportunities for fusing these models into already
+    functioning video analytics systems are proposed.
+
+- title: 'Deep Learning in Video Multi-Object Tracking: A Survey'
+  authors: >
+    Gioele Ciaparrone, Francisco Luque, Siham Tabik, Luigi Troiano,
+    Roberto Tagliaferri, Francisco Herrera
+  date: March 2020
+  journal: Neurocomputing
+  abstract: >-
+    The problem of Multiple Object Tracking (MOT) consists in
+    following the trajectory of different objects in a sequence,
+    usually a video. In recent years, with the rise of Deep Learning,
+    the algorithms that provide a solution to this problem have
+    benefited from the representational power of deep models. This
+    paper provides a comprehensive survey on works that employ Deep
+    Learning models to solve the task of MOT on single-camera
+    videos. Four main steps in MOT algorithms are identified, and an
+    in-depth review of how Deep Learning was employed in each one of
+    these stages is presented. A complete experimental comparison of
+    the presented works on the three MOTChallenge datasets is also
+    provided, identifying a number of similarities among the
+    top-performing methods and presenting some possible future
+    research directions.
+
+- title: >-
+    From Big to Smart Data: Iterative ensemble filter for noise
+    filtering in Big Data classification
+  authors: >-
+    Diego García Gil, Francisco Luque, Julián Luengo, Salvador García,
+    Francisco Herrera
+  date: December 2019
+  journal: International Journal of Intelligent Systems
+  abstract: >-
+    The quality of the data is directly related to the quality of the
+    models drawn from that data. For that reason, many research is
+    devoted to improve the quality of the data and to amend errors
+    that it may contain. One of the most common problems is the
+    presence of noise in classification tasks, where noise refers to
+    the incorrect labeling of training instances. This problem is very
+    disruptive, as it changes the decision boundaries of the
+    problem. Big Data problems pose a new challenge in terms of
+    quality data due to the massive and unsupervised accumulation of
+    data. This Big Data scenario also brings new problems to classic
+    data preprocessing algorithms, as they are not prepared for
+    working with such amounts of data, and these algorithms are key to
+    move from Big to Smart Data. In this paper, an iterative ensemble
+    filter for removing noisy instances in Big Data scenarios is
+    proposed. Experiments carried out in six Big Data datasets have
+    shown that our noise filter outperforms the current
+    state‐of‐the‐art noise filter in Big Data domains. It has also
+    proved to be an effective solution for transforming raw Big Data
+    into Smart Data.
