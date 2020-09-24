@@ -20,13 +20,32 @@
     i18n: company_b
   desc:
     detail: >
-      'Studied a master's degree on Data Science passed with honors.
-      Avg marks: 9.69/10, 38.3 \% of subjects passed with honors'
+      Studied a Master's Degree in Data Science and Machine
+      Learning. Avg marks: 9.69/10, 38.3 % of subjects passed with
+      honors
     i18n: company_b_desc
   date:
     detail: Sept. 2019
     i18n: company_b_date
   job:
     detail: M.Sc. in Data Science
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Universidad de Granada
+    i18n: company_b
+  desc:
+    detail: >
+      Studied a double Bachelor's Degree in Maths and Computer
+      Sciences.\n\n
+      Avg marks in Maths: 8.00/10\n
+      Avg marks in C.S: 8.45/10
+    i18n: company_b_desc
+  date:
+    detail: Sept. 2019
+    i18n: company_b_date
+  job:
+    detail: Bachelor's Degree
     i18n: company_b_job
   icon: fa-plus-square
