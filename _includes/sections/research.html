@@ -6,12 +6,16 @@
         </div>
     </div>
     {% for publication in site.data.index.research %}
-    <div class="row">
+    <div class="row m-b-lg col-lg-12 text-justify">
       <hr/>
-      <h2>{{ publication.title }}</h2>
-      <h3>{{ publication.authors }}</h3>
-      <h4>{{ publication.journal }} - {{ publication.date }}</h4>
-      <p>{{ publication.abstract }}</p>
+      <div class="panel-info">
+        <div class="panel-heading"><h2>{{ publication.title }}</h2></div>
+        <div class="panel-body">
+        <h3>{{ publication.authors }}</h3>
+        <h4>{{ publication.journal }} - {{ publication.date }}</h4>
+        <p>{{ publication.abstract }}</p>
+        </div>
+      </div>
     </div>
     {% endfor %}
     <hr/>
